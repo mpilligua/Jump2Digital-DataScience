@@ -1,7 +1,7 @@
 # Jump2Digital DataScience - Maria Pilligua
 ## 1. Introduccion
 
-En este projecto se han usado 2 datasets: 
+En este proyecto se han usado 2 datasets: 
 - El principal propuesto que presenta información sobre la media del alquiler mensual (€/mes) y por superficie (€/m2) de la ciudad de Barcelona: Alquiler mensual medio (€/mes) y por superficie (€/m2) de la ciudad de Barcelona - 2017_Alquiler_precio_trim.csv - Open Data Barcelona
 - El dataset propuesto que contiene información sobre la exposición a los ruidos de la población, del Mapa Estratégico de Ruido de la ciudad de Barcelona: Población expuesta en los niveles de ruido del Mapa Estratégico de Ruido de la ciudad de Barcelona - 2017_Poblacio_exposada_barris_Mapa_Estrategic_Soroll_BCN_LONG.csv - Open Data Barcelona
 
@@ -27,6 +27,6 @@ Despues de esto, podemos ver que estos dos datasets no estan nada correlacionado
 Sin embargo el nivel de ruido puede ser relevante si lo tenemos en cuenta junto con otros datos, como por ejemplo, el nivel medio de insonorización de las viviendas o el nivel medio de altura de los edificios. Ya que el mismo nivel de ruido puede ser un factor importante si o no dependiendo de si tu vivienda esta bien insonorizada o si vives en un piso muy alto donde el ruido no se llega a apreciar.
 
 
-En caso de querer ejecutar el codigo, he dejado un fichero llamado requierements.txt que permite installar el envirnment con las librerias necesarias para poder ejecutarlo. Para installarlo solo hay que poner: 
+En caso de querer ejecutar el codigo, he dejado un fichero llamado requierements.txt que permite installar el envirnment con las librerias necesarias para poder ejecutarlo. Para instalarlo solo hay que poner: 
 
   conda create -n <environment-name> --file requirements.txt
