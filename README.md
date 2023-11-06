@@ -29,4 +29,4 @@ Sin embargo el nivel de ruido puede ser relevante si lo tenemos en cuenta junto 
 
 En caso de querer ejecutar el codigo, he dejado un fichero llamado requierements.txt que permite installar el envirnment con las librerias necesarias para poder ejecutarlo. Para installarlo solo hay que poner: 
 
-<conda create -n <environment-name> --file requirements.txt>
+  conda create -n <environment-name> --file requirements.txt
