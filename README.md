@@ -25,3 +25,8 @@ El dataset con los datos unidos nos permite hacer un pequeño estudio de la corr
 
 Despues de esto, podemos ver que estos dos datasets no estan nada correlacionados y por tanto el nivel de ruido no es un factor muy importante para decidir el precio medio del alquiler en barcelona. 
 Sin embargo el nivel de ruido puede ser relevante si lo tenemos en cuenta junto con otros datos, como por ejemplo, el nivel medio de insonorización de las viviendas o el nivel medio de altura de los edificios. Ya que el mismo nivel de ruido puede ser un factor importante si o no dependiendo de si tu vivienda esta bien insonorizada o si vives en un piso muy alto donde el ruido no se llega a apreciar.
+
+
+En caso de querer ejecutar el codigo, he dejado un fichero llamado requierements.txt que permite installar el envirnment con las librerias necesarias para poder ejecutarlo. Para installarlo solo hay que poner: 
+
+<conda create -n <environment-name> --file requirements.txt>
